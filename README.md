@@ -6,9 +6,7 @@
 
 ### About Me
 
-I'm a Junior CS major at CU Denver (Class of 2027, GPA 3.65) interested in full-stack development and applied AI. I like building projects end-to-end and exploring how AI fits into real products.
-
-**Actively seeking Summer and Fall internships in software engineering, full-stack, and AI.**
+I'm a Junior CS major at CU Denver interested in full-stack development and applied AI. I like building projects end-to-end and exploring how AI fits into real products.
 
 ### Tools
 
