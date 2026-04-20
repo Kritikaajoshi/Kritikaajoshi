@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Kritika Joshi</h1>
 
-<p align="center">Junior Computer Science Major at the University of Colorado Denver</p>
+
 
 ---
 
