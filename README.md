@@ -1,9 +1,6 @@
 <h1 align="center">Hi there, I'm Kritika Joshi</h1>
 
 
-
----
-
 ### About Me
 
 I'm a Junior CS major at CU Denver interested in full-stack development and applied AI. I like building projects end-to-end and exploring how AI fits into real products.
