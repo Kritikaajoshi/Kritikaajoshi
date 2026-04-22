@@ -3,7 +3,7 @@
 
 ### About Me
 
-I'm a Junior CS major at CU Denver interested in full-stack development and applied AI. I like building projects end-to-end and exploring how AI fits into real products.
+I'm a third year CS major at CU Denver interested in full-stack development and applied AI. I like building projects end-to-end and exploring how AI fits into real products.
 
 ### Tools
 
